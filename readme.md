@@ -1,4 +1,20 @@
+# DEP Reformmodul Efterår 2020
+
+Her mit nye(ste) hjem for noter til [[RefMod]]
+
+Her skal der være
+
+* daglige noter, for
+  * [Litteraturlæsning]
+  * [Undervisningsdage på tagensvej]
+* Praktikum
+  * Litteraturlæsning
+  * modelopbygning
+  * afprøvning og erfaringer
+
+<!--
 # Foam
+-->
 
 👋 Welcome to your new Foam Workspace!
 
@@ -34,6 +50,8 @@ We've created a few Bubbles (markdown documents) to get you started.
 They should work as expected in VS Code, and in rendered GitHub Pages.
 
 If GitHub preview (or general 100% support with all Markdown tools) is a requirement, for the time being you can use the standard `[description](page.md)` syntax.
+
+
 
 
 
